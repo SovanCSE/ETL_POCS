@@ -1,0 +1,7 @@
+
+
+## on_execute_callback => It calls befroe task begins
+## on_failure_callback ==> When the task fails
+## on_retry_callback ==> When task is up for retry 
+## on_success_callback ==> When the task succeeds 
+## on_skipped_callback ==> When the task is skipped 
