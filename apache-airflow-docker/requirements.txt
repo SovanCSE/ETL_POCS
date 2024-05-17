@@ -1,0 +1,3 @@
+apache-airflow-providers-airbyte
+yfinance==0.2.3
+apache-airflow-providers-snowflake[common.sql]==5.5.0
